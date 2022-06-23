@@ -1,0 +1,31 @@
+h1{
+color: rgb(15, 219, 255);
+font-size: xx-large;
+font-family: 'Trebuchet MS';
+font-weight: 300;
+font-style: oblique;
+font-stretch: expanded;
+}
+button{
+    color: rgb(247, 64, 9);
+display: inline-block;
+background-color: rgb(253, 239, 38);
+border-radius:5xp;
+border: 3px rgb(229, 253, 7);
+text-align: center;
+padding: 10px;
+width: 100xp;
+}
+P{
+    font-family: 'Trebuchet MS';
+    font-stretch: expanded;
+font-size: x-large;
+color: rgb(255, 1, 200);
+text-decoration-line: underline;
+}
+body{
+    background-color: rgb(9, 1, 15);
+    background-repeat: inherit;
+    backface-visibility: inherit;
+    
+}
